@@ -1,5 +1,8 @@
 # pg-playground
 
+https://www.postgresql.org/docs/16/tutorial.html
+
+To run in CodeSpaces (vs. locally)
 docker ps
 docker start my-postgres
 cd tutorial
